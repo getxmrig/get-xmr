@@ -5,7 +5,7 @@
 sudo apt update
 clear
 sudo apt install screen
-screen -R xmr
+screen -R lolMiner
  
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.57/lolminer-1.57.SwitchHiveOS.tar.gz
 tar xvzf lolminer-1.57.SwitchHiveOS.tar.gz
